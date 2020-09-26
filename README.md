@@ -21,15 +21,15 @@
 
 ---
 
-[![JasonYoge's github stats](https://github-readme-stats.vercel.app/api?username=jasonyoge)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [CJS和ESM跨规范引用的分析](https://jasonyoge.github.io/posts/CJS和ESM跨规范引用的分析)
 - [数据库事务的理解及其应用场景](https://jasonyoge.github.io/posts/数据库事务的应用场景)
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+[![JasonYoge's github stats](https://github-readme-stats.vercel.app/api?username=jasonyoge)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [website]: https://jasonyoge.github.io/
