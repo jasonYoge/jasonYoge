@@ -4,10 +4,10 @@
 
 ## I'm a UI dever.
 
-- 🔭 I’m currently working on frontend tech.
-- 🌱 I’m currently learning distributed system.
-- 👯 I’m looking to collaborate on any open source project.
-- 🥅 2020 Goals: be better.
+- 🔭 A simple tech lover who wants to make the world better.
+- 🌱 Leraning to be a good dev forever.
+- 👯 Try my best to do things better.
+- 🥅 2021 Goals: a nice vacation🏖️.
 - 📫 How to catch me: [with my email][email] or [leave a comment on my website][website].
 - ⚡ Fun fact: reading, movie, tech and live.
 
