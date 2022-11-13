@@ -4,7 +4,7 @@
 
 ## I'm a UI dever.
 
-- 🔭 A simple tech lover who wants to make the world better.
+- 🔭 The simplest tech lover who wants to make the world better.
 - 🌱 Leraning to be a good dev forever.
 - 👯 Try my best to do things better.
 - 🥅 2021 Goals: a nice vacation🏖️.
